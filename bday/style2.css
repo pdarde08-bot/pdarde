@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    background-image: url(/bg.jpg);
+    background-size: cover;
+}
+h3{
+    color: rgb(222, 13, 118);
+    text-align: center; 
+    font-size: 2em;
+    font-family:Dancing Script ;
+    text-spacing-trim: 5px;
+   
+}
+h1{
+    color: rgb(222, 13, 118);
+    text-align: center; 
+    font-size: 3em;
+    font-family: Dancing Script;
+    
+}
+#para1{
+    color: purple;
+    font-size: 1.5em;
+    text-align: start;
+    text-align: justify;
+}
+#para2{
+    text-align: justify;
+    font-size: 1.5em;
+    color:crimson;
+}
+img{
+    padding-right:7px ;
+}
+#para3{
+    text-align: justify;
+    font-size: 1.5em;
+    color: rgb(232, 21, 126);
+}
+.img{
+ margin: 10px 10px;
+ padding: 10px;
+}
+#play{
+    display: none;
+}
+#para4{
+        text-align: justify;
+    font-size: 1.5em;
+    color: rgb(115, 3, 108);
+}
+.img2{
+    margin: auto;
+    margin-left: 20px;
+}
+#para5{
+         text-align: justify;
+    font-size: 1.5em;
+    color: rgb(104, 2, 53);
+}
+#para6{
+     text-align: justify;
+    font-size: 1.5em;
+    color: rgb(133, 3, 3);
+}
+#para7{
+    text-align: justify;
+    font-size: 1.5em;
+    color: rgb(242, 25, 181);
+}
+#para8{
+     text-align: justify;
+    font-size: 1.5em;
+    color: rgb(151, 3, 142);
+}
+h4{
+    text-align: center;
+    font-size: x-large;
+    color: red;
+}

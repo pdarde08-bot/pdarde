@@ -1,0 +1,40 @@
+body{
+    background-image:url(/bg.jpg);
+    background-size: cover;
+}
+h1{
+    font-size: xx-large;
+    color: palevioletred;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+img{
+    margin-left: 0;
+    padding: 0;
+}
+p{
+    text-align: justify;
+    color: rgb(240, 46, 111);
+    font-size:x-large ;
+    
+}
+h2{
+    text-align: center;
+    color:rgb(240, 46, 111); 
+    font-size: 2em;
+
+}
+button{
+    font-size: x-large;
+    margin: 20px;
+    padding: 5px;
+    align-items: center;
+}
+#btn{
+    padding: 10px;
+    margin-left:70px ;
+}
+#play{
+    display: none;
+}
