@@ -1,0 +1,30 @@
+body{
+    background-image: url(/bg.jpg);
+    background-size:cover;
+    
+}
+h1{
+    text-align: center;
+    color: palevioletred;
+}
+#para1{
+    color: crimson;
+}
+#para2{
+    text-align: center;
+    color: deeppink;
+    font-size: x-large;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    color: deeppink;
+    border: 2px palevioletred;
+    size:30px;
+}
+*{
+    font-size:60px;
+}
+#play{
+    display: none;
+}
